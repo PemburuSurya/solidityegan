@@ -2,6 +2,7 @@
   "name": "solidityegan",
   "version": "0.0.1",
   "description": "Markdown documentation generator for Solidity",
+  "repository": "https://github.com/PemburuSurya/solidityegan",
   "engines": {
     "node": ">=4"
   },
@@ -25,10 +26,6 @@
     "generator",
     "natspec"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/PemburuSurya/solidityegan.git"
-  },
   "author": "Nour Haridy <nour@lamarkaz.com>",
   "license": "MIT",
   "devDependencies": {
